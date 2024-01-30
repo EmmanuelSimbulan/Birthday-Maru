@@ -52,7 +52,7 @@
 ## About The Project
 
 ![Wishes](https://i.ibb.co/vZykBwW/Screenshot-2023-06-17-at-12-53-41-Lofty-Leather.png)
-![Judy](https://i.ibb.co/rcwG8MT/Screenshot-2023-06-17-at-12-54-02-Lofty-Leather.png)
+![Maru](https://i.ibb.co/rcwG8MT/Screenshot-2023-06-17-at-12-54-02-Lofty-Leather.png)
 ![Responsive](https://i.ibb.co/sQs50rS/wishes-mobile-png.png)
 ![Home](https://i.ibb.co/17g5Ftx/Screenshot-2023-06-17-at-12-54-11-Lofty-Leather.png)
 
